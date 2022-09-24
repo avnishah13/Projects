@@ -1,7 +1,3 @@
--- DBMS Case Study : Group 9 --
--- Group Members: Atharva Gothoskar, Avni Shah, Rinki Chahar, Aditya Patil --
-
-
 -- Tables --
 
 create table airport_locn
